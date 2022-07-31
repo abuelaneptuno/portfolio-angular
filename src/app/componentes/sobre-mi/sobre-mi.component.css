@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(238, 249, 235);
+    padding: 10px;
+}
+
+#foto-perfil {
+    width: 150 px;
+    height: 150 px;
+}
